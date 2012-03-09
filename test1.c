@@ -1,6 +1,6 @@
 #include "pthread.h"
 #include "stdio.h"
-
+#include "stdlib.h"
 void *pthread_test(void *ptr)
 {
 
